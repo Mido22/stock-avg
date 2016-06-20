@@ -1,0 +1,16 @@
+{
+  "csvFolder": "./data",
+  "datastore": "./data/data.db",
+  "months" : ["JAN",
+              "FEB",
+              "MAR",
+              "APR",
+              "MAY",
+              "JUN",
+              "JUL",
+              "AUG",
+              "SEP",
+              "OCT",
+              "NOV",
+              "DEC"]
+}

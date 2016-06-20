@@ -1,0 +1,33 @@
+{
+  "name": "stock-avg",
+  "version": "0.0.1",
+  "description": "analyzing NSE stock data over a period",
+  "main": "csv.js",
+  "dependencies": {
+    "bluebird": "^3.4.0",
+    "fast-csv": "^2.0.0",
+    "nedb": "^1.8.0",
+    "winston": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "./soon.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mido22/stock-avg.git"
+  },
+  "keywords": [
+    "nodeJS",
+    "electron",
+    "csv",
+    "stock",
+    "data-analysis"
+  ],
+  "author": "Ban Mido",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mido22/stock-avg/issues"
+  },
+  "homepage": "https://github.com/mido22/stock-avg#readme"
+}
